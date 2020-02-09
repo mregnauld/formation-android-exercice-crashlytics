@@ -1,0 +1,9 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Crashlytics</string>
+
+	<!-- Main -->
+	<string name="main_libelle_bouton_crash">Test division</string>
+
+</resources>

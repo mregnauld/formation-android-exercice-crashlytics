@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Main -->
+	<dimen name="commun_taille_libelle_bouton_crash">48sp</dimen>
+
+</resources>
